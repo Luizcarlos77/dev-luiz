@@ -1,21 +1,21 @@
 ### Olá!
-Me chamo Luiz, sou um estudante de programação.
+ Meu nome é Luiz, sou um estudante de programação.
 
 - 🌱 Estudando JS | HTML | CSS |
 - 😄 Pronomes: Ele/Dele
 
 <div>
-  <a href="https://beacons.ai/dev-dfbueno"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-dfbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dfbueno&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://beacons.ai/dev-luiz"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-luiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-luiz&layout=compact&langs_count=16&theme=dark"/>
     </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Bueno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bueno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bueno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bueno-pic" height="150" style="border-radius:50px;" src="https://www.jumperinformatica.com.br/assets/img/hero-img.png">
-    <img align="center" alt="Bueno-gif" height="100" width="100" src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://www.jumperinformatica.com.br/assets/img/hero-img.png">
+    <img align="center" alt="Luiz-gif" height="100" width="100" src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966">
 </div>
   
   ##
