@@ -1,6 +1,6 @@
 
 ### Olá!
- Meu nome é Luiz, sou um estudante de programação.
+ Meu chamo Luiz Carlos, sou um estudante de programação.
 
 - 🌱 Estudando JS | HTML | CSS |
 - 😄 Pronomes: Ele/Dele
